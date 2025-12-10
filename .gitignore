@@ -1,0 +1,4 @@
+node_modules
+emlak-admin/node_modules
+.env
+.DS_Store
